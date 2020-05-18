@@ -11,7 +11,7 @@
         android:id="@+id/appBarLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#14C3FF"
+        android:background="@color/primaryColor"
         android:theme="@style/AppTheme.AppBarOverlay">
 
         <androidx.constraintlayout.widget.ConstraintLayout
@@ -69,7 +69,7 @@
             android:id="@+id/tabs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#14C3FF" />
+            android:background="@color/primaryColor" />
 
 
     </com.google.android.material.appbar.AppBarLayout>
